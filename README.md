@@ -1,2 +1,4 @@
-# shell-script
-Shell脚本
+# Shell脚本
+
+
+- **autobackup.sh** 实现自动备份指定目录，自动清理一个月之前的备份，需要配置BAK_*变量为相关文件/文件夹
